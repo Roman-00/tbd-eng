@@ -20,17 +20,17 @@ $(document).ready(function () {
         },// сообщения
         messages: {
             userName: {
-                required: "Заполните поле",
-                minlength: "Имя не должно быть короче 2 символов",
-                maxlength: "Имя не должно превышать 15 символов"
+                required: "Fill in the field",
+                minlength: "The name must not be shorter than 2 characters",
+                maxlength: "Name must not exceed 15 characters"
             },
             checkboxModal: {
-                required: "Отметьте галочку",
+                required: "Check the box",
             },
-            userPhone: "Телефон обязателен",
+            userPhone: "Phone is required",
             userEmail: {
-                required: "Обязательно укажите e-mail",
-                email: "Введите корректный email Пример: name@domain.com"
+                required: "Be sure to enter your e-mail",
+                email: "Please enter a valid email Example: name@domain.com"
             }
         },
         errorPlacement: function (error, element) {
@@ -88,17 +88,17 @@ $(document).ready(function () {
         },// сообщения
         messages: {
             userName: {
-                required: "Заполните поле",
-                minlength: "Имя не должно быть короче 2 символов",
-                maxlength: "Имя не должно превышать 15 символов"
+                required: "Fill in the field",
+                minlength: "The name must not be shorter than 2 characters",
+                maxlength: "Name must not exceed 15 characters"
             },
             checkboxModal: {
-                required: "Отметьте галочку",
+                required: "Check the box",
             },
-            userPhone: "Телефон обязателен",
+            userPhone: "Phone is required",
             userEmail: {
-                required: "Обязательно укажите e-mail",
-                email: "Введите корректный email Пример: name@domain.com"
+                required: "Be sure to enter your e-mail",
+                email: "Please enter a valid email Example: name@domain.com"
             }
         },
         errorPlacement: function (error, element) {
@@ -156,17 +156,17 @@ $(document).ready(function () {
         },// сообщения
         messages: {
             userName: {
-                required: "Заполните поле",
-                minlength: "Имя не должно быть короче 2 символов",
-                maxlength: "Имя не должно превышать 15 символов"
+                required: "Fill in the field",
+                minlength: "The name must not be shorter than 2 characters",
+                maxlength: "Name must not exceed 15 characters"
             },
             checkboxModal: {
-                required: "Отметьте галочку",
+                required: "Check the box",
             },
-            userPhone: "Телефон обязателен",
+            userPhone: "Phone is required",
             userEmail: {
-                required: "Обязательно укажите e-mail",
-                email: "Введите корректный email Пример: name@domain.com"
+                required: "Be sure to enter your e-mail",
+                email: "Please enter a valid email Example: name@domain.com"
             }
         },
         errorPlacement: function (error, element) {
