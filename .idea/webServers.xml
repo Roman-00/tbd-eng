@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d192b0ca-5ba9-41c0-9a36-c82a9a4c78e9" name="tbd-eng" url="http://tbd.bz">
+        <fileTransfer host="tbd.bz" port="21">
+          <advancedOptions>
+            <advancedOptions compatibilityMode="true" controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
