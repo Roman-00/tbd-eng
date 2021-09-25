@@ -1546,7 +1546,7 @@ section {position: relative;z-index: 10;}
 
 .inner_first_block {}
 .inner_first_block > .bg1 {left: 0;top: 0;width: 100%;height: 100%;}
-.inner_first_block > .bg1 img {display: block;position: relative;width: 100%;height: 100%;object-fit: cover;}
+.inner_first_block > .bg1 img {display: block;position: relative;width: 100%;height: 100%;object-fit: cover;visibility: hidden;opacity: 0;}
 .inner_first_block .wrapper {display: flex;flex-flow: row nowrap;justify-content: flex-start;height: 100%;align-items: flex-start;}
 .inner_first_block .wrapper > * {flex: 0 1 auto;box-sizing: border-box;}
 .inner_first_block > .bg2 {width: 34.1rem;height: 34.1rem;right: 50%;top: 6.4rem;margin-right: -42rem;}
